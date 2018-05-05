@@ -1,0 +1,3412 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='3.67012in' height='3.30245in' viewBox='0 0 264.248 237.776' >
+<g partID='854130780'><g transform='translate(263.368,111.376)' ><g transform='matrix(0,1,-1,0,0,0)'  ><g id="schematic" gorn="0.3.0">
+<rect stroke="#000000" id="rect6" stroke-linecap="round" x="14.717" y="14.673" height="135.899" width="78.301" gorn="0.3.0.0" stroke-width="0.9" fill="#FFFFFF"/>
+<line stroke="#787878" id="connector39pin" stroke-linecap="round" y1="0.169" y2="14.569" x1="65.423" x2="65.423" gorn="0.3.0.1" stroke-width="0.75" fill="none"/>
+<g id="connector39terminal" x="65.041" y="-0.35" height="1.021" width="0.764" gorn="0.3.0.2" fill="none"/>
+<line stroke="#787878" id="connector38pin" stroke-linecap="round" y1="0.169" y2="14.569" x1="65.423" x2="65.423" gorn="0.3.0.3" stroke-width="0.75" fill="none"/>
+<g id="connector38terminal" x="65.042" y="-0.35" height="1.021" width="0.763" gorn="0.3.0.4" fill="none"/>
+<line stroke="#787878" id="connector0pin" stroke-linecap="round" y1="0.169" y2="14.569" x1="43.824" x2="43.824" gorn="0.3.0.5" stroke-width="0.75" fill="none"/>
+<g id="connector0terminal" x="43.442" y="-0.35" height="1.038" width="0.763" gorn="0.3.0.6" fill="none"/>
+<line stroke="#787878" id="connector8pin" stroke-linecap="round" y1="0.169" y2="14.569" x1="43.824" x2="43.824" gorn="0.3.0.7" stroke-width="0.75" fill="none"/>
+<g id="connector8terminal" x="43.442" y="-0.35" height="1.038" width="0.763" gorn="0.3.0.8" fill="none"/>
+<line stroke="#787878" id="connector25pin" stroke-linecap="round" y1="150.673" y2="165.073" x1="50.781" x2="50.781" gorn="0.3.0.9" stroke-width="0.75" fill="none"/>
+<line stroke="#787878" id="connector23pin" stroke-linecap="round" y1="150.673" y2="165.073" x1="50.781" x2="50.781" gorn="0.3.0.10" stroke-width="0.75" fill="none"/>
+<line stroke="#787878" id="connector19pin" stroke-linecap="round" y1="150.673" y2="165.073" x1="50.781" x2="50.781" gorn="0.3.0.11" stroke-width="0.75" fill="none"/>
+<line stroke="#787878" id="connector12pin" stroke-linecap="round" y1="150.673" y2="165.073" x1="50.781" x2="50.781" gorn="0.3.0.12" stroke-width="0.75" fill="none"/>
+<line stroke="#787878" id="connector4pin" stroke-linecap="round" y1="150.673" y2="165.073" x1="50.781" x2="50.781" gorn="0.3.0.13" stroke-width="0.75" fill="none"/>
+<g id="connector4terminal" x="50.4" y="164.584" height="0.979" width="0.762" gorn="0.3.0.14" fill="none"/>
+<g id="connector12terminal" x="50.4" y="164.584" height="0.979" width="0.762" gorn="0.3.0.15" fill="none"/>
+<line stroke="#787878" id="connector30pin" stroke-linecap="round" y1="150.673" y2="165.073" x1="50.781" x2="50.781" gorn="0.3.0.16" stroke-width="0.75" fill="none"/>
+<line stroke="#787878" id="connector33pin" stroke-linecap="round" y1="150.673" y2="165.073" x1="50.781" x2="50.781" gorn="0.3.0.17" stroke-width="0.75" fill="none"/>
+<line stroke="#787878" id="connector37pin" stroke-linecap="round" y1="150.673" y2="165.073" x1="50.781" x2="50.781" gorn="0.3.0.18" stroke-width="0.75" fill="none"/>
+<g id="connector30terminal" x="50.4" y="164.584" height="0.979" width="0.762" gorn="0.3.0.19" fill="none"/>
+<g id="connector33terminal" x="50.4" y="164.584" height="0.979" width="0.762" gorn="0.3.0.20" fill="none"/>
+<g id="connector37terminal" x="50.4" y="164.584" height="0.979" width="0.762" gorn="0.3.0.21" fill="none"/>
+<g id="connector25terminal" x="50.4" y="164.584" height="0.979" width="0.762" gorn="0.3.0.22" fill="none"/>
+<g id="connector23terminal" x="50.4" y="164.584" height="0.979" width="0.762" gorn="0.3.0.23" fill="none"/>
+<g id="connector19terminal" x="50.4" y="164.584" height="0.979" width="0.762" gorn="0.3.0.24" fill="none"/>
+<g id="connector87terminal" gorn="0.3.0.25"/>
+<g id="g33" gorn="0.3.0.26">
+<g id="g35" gorn="0.3.0.26.0">
+<g id="g37" gorn="0.3.0.26.0.0">
+<g transform="matrix(1, 0, 0, 1, 58.6055, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text39" gorn="0.3.0.26.0.0.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 61.0195, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text41" gorn="0.3.0.26.0.0.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 63.0371, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text43" gorn="0.3.0.26.0.0.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 64.1875, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text45" gorn="0.3.0.26.0.0.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 66.7852, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text47" gorn="0.3.0.26.0.0.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 68.7129, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text49" gorn="0.3.0.26.0.0.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">4</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 70.6406, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text51" gorn="0.3.0.26.0.0.6.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 71.5508, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text53" gorn="0.3.0.26.0.0.7.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">U</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 73.9609, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text55" gorn="0.3.0.26.0.0.8.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">A</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 76.0879, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text57" gorn="0.3.0.26.0.0.9.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">R</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 78.1182, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text59" gorn="0.3.0.26.0.0.10.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">T</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 79.9355, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text61" gorn="0.3.0.26.0.0.11.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">0</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 81.8633, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text63" gorn="0.3.0.26.0.0.12.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">_</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 83.3008, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text65" gorn="0.3.0.26.0.0.13.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">T</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 85.1182, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text67" gorn="0.3.0.26.0.0.14.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">X</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 87.0322, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text69" gorn="0.3.0.26.0.0.15.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">D</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 89.4258, 115.987)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text71" gorn="0.3.0.26.0.0.16.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g73" gorn="0.3.0.26.0.1">
+<g transform="matrix(1, 0, 0, 1, 59.2656, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text75" gorn="0.3.0.26.0.1.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 61.6816, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text77" gorn="0.3.0.26.0.1.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 63.6973, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text79" gorn="0.3.0.26.0.1.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 64.8496, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text81" gorn="0.3.0.26.0.1.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 67.4473, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text83" gorn="0.3.0.26.0.1.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 69.375, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text85" gorn="0.3.0.26.0.1.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">5</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 71.3027, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text87" gorn="0.3.0.26.0.1.6.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 72.2109, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text89" gorn="0.3.0.26.0.1.7.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">U</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 74.6211, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text91" gorn="0.3.0.26.0.1.8.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">A</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 76.749, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text93" gorn="0.3.0.26.0.1.9.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">R</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 78.7793, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text95" gorn="0.3.0.26.0.1.10.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">T</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 80.5957, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text97" gorn="0.3.0.26.0.1.11.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">0</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 82.5234, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text99" gorn="0.3.0.26.0.1.12.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">_</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 83.9629, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text101" gorn="0.3.0.26.0.1.13.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">R</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 86.0273, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text103" gorn="0.3.0.26.0.1.14.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">X</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 87.9414, 108.787)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text105" gorn="0.3.0.26.0.1.15.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">D</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g107" gorn="0.3.0.26.0.2">
+<g transform="matrix(1, 0, 0, 1, 62.9551, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text109" gorn="0.3.0.26.0.2.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 65.3711, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text111" gorn="0.3.0.26.0.2.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 67.3867, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text113" gorn="0.3.0.26.0.2.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 68.5391, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text115" gorn="0.3.0.26.0.2.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 71.1367, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text117" gorn="0.3.0.26.0.2.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 73.0645, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text119" gorn="0.3.0.26.0.2.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">8</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 74.9922, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text121" gorn="0.3.0.26.0.2.6.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 75.9004, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text123" gorn="0.3.0.26.0.2.7.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 77.8828, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text125" gorn="0.3.0.26.0.2.8.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">C</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 79.9941, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text127" gorn="0.3.0.26.0.2.9.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">M</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 83.0391, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text129" gorn="0.3.0.26.0.2.10.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">_</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 84.4785, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text131" gorn="0.3.0.26.0.2.11.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">C</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 86.5898, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text133" gorn="0.3.0.26.0.2.12.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">L</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 88.3086, 101.587)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text135" gorn="0.3.0.26.0.2.13.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">K</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g137" gorn="0.3.0.26.0.3">
+<g transform="matrix(1, 0, 0, 1, 78.2988, 94.387)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text139" gorn="0.3.0.26.0.3.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 80.7148, 94.387)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text141" gorn="0.3.0.26.0.3.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 82.7305, 94.387)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text143" gorn="0.3.0.26.0.3.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 83.8828, 94.387)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text145" gorn="0.3.0.26.0.3.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 86.4805, 94.387)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text147" gorn="0.3.0.26.0.3.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 88.4082, 94.387)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text149" gorn="0.3.0.26.0.3.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">3</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g151" gorn="0.3.0.26.0.4">
+<g transform="matrix(1, 0, 0, 1, 78.2988, 87.1868)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text153" gorn="0.3.0.26.0.4.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 80.7148, 87.1868)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text155" gorn="0.3.0.26.0.4.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 82.7305, 87.1868)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text157" gorn="0.3.0.26.0.4.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 83.8828, 87.1868)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text159" gorn="0.3.0.26.0.4.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 86.4805, 87.1868)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text161" gorn="0.3.0.26.0.4.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 88.4082, 87.1868)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text163" gorn="0.3.0.26.0.4.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">4</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g165" gorn="0.3.0.26.0.5">
+<g transform="matrix(1, 0, 0, 1, 78.2988, 79.9866)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text167" gorn="0.3.0.26.0.5.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 80.7148, 79.9866)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text169" gorn="0.3.0.26.0.5.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 82.7305, 79.9866)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text171" gorn="0.3.0.26.0.5.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 83.8828, 79.9866)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text173" gorn="0.3.0.26.0.5.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 86.4805, 79.9866)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text175" gorn="0.3.0.26.0.5.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 88.4082, 79.9866)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text177" gorn="0.3.0.26.0.5.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">5</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g179" gorn="0.3.0.26.0.6">
+<g transform="matrix(1, 0, 0, 1, 61.0547, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text181" gorn="0.3.0.26.0.6.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 63.4707, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text183" gorn="0.3.0.26.0.6.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 65.4863, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text185" gorn="0.3.0.26.0.6.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 66.6387, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text187" gorn="0.3.0.26.0.6.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 69.2363, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text189" gorn="0.3.0.26.0.6.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">8</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 71.1641, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text191" gorn="0.3.0.26.0.6.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 72.0723, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text193" gorn="0.3.0.26.0.6.6.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">S</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 73.8896, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text195" gorn="0.3.0.26.0.6.7.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 75.9063, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text197" gorn="0.3.0.26.0.6.8.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 77.0918, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text199" gorn="0.3.0.26.0.6.9.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">0</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 79.0195, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text201" gorn="0.3.0.26.0.6.10.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">_</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 80.459, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text203" gorn="0.3.0.26.0.6.11.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">C</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 82.5703, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text205" gorn="0.3.0.26.0.6.12.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">E</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 84.417, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text207" gorn="0.3.0.26.0.6.13.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">0</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 86.3447, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text209" gorn="0.3.0.26.0.6.14.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">_</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 87.7832, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text211" gorn="0.3.0.26.0.6.15.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">N</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g213" gorn="0.3.0.26.0.7">
+<g transform="matrix(1, 0, 0, 1, 61.0547, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text215" gorn="0.3.0.26.0.7.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 63.4707, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text217" gorn="0.3.0.26.0.7.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 65.4863, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text219" gorn="0.3.0.26.0.7.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 66.6387, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text221" gorn="0.3.0.26.0.7.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 69.2363, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text223" gorn="0.3.0.26.0.7.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">7</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 71.1641, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text225" gorn="0.3.0.26.0.7.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 72.0723, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text227" gorn="0.3.0.26.0.7.6.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">S</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 73.8896, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text229" gorn="0.3.0.26.0.7.7.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 75.9063, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text231" gorn="0.3.0.26.0.7.8.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 77.0918, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text233" gorn="0.3.0.26.0.7.9.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">0</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 79.0195, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text235" gorn="0.3.0.26.0.7.10.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">_</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 80.459, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text237" gorn="0.3.0.26.0.7.11.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">C</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 82.5703, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text239" gorn="0.3.0.26.0.7.12.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">E</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 84.417, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text241" gorn="0.3.0.26.0.7.13.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 86.3447, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text243" gorn="0.3.0.26.0.7.14.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">_</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 87.7832, 65.5862)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text245" gorn="0.3.0.26.0.7.15.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">N</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g247" gorn="0.3.0.26.0.8">
+<text font-size="0" id="text249" style="font-family:DroidSans;" x="51.1437" y="58.386" gorn="0.3.0.26.0.8.0" fill="#8c8c8c">ID_SC I2C ID EEPROM </text>
+</g>
+<g id="g251" gorn="0.3.0.26.0.9">
+<g transform="matrix(1, 0, 0, 1, 78.2988, 51.1858)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text253" gorn="0.3.0.26.0.9.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 80.7148, 51.1858)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text255" gorn="0.3.0.26.0.9.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 82.7305, 51.1858)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text257" gorn="0.3.0.26.0.9.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 83.8828, 51.1858)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text259" gorn="0.3.0.26.0.9.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 86.4805, 51.1858)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text261" gorn="0.3.0.26.0.9.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 88.4082, 51.1858)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text263" gorn="0.3.0.26.0.9.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g265" gorn="0.3.0.26.0.10">
+<g transform="matrix(1, 0, 0, 1, 78.2988, 43.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text267" gorn="0.3.0.26.0.10.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 80.7148, 43.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text269" gorn="0.3.0.26.0.10.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 82.7305, 43.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text271" gorn="0.3.0.26.0.10.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 83.8828, 43.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text273" gorn="0.3.0.26.0.10.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 86.4805, 43.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text275" gorn="0.3.0.26.0.10.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 88.4082, 43.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text277" gorn="0.3.0.26.0.10.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">6</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g279" gorn="0.3.0.26.0.11">
+<g transform="matrix(1, 0, 0, 1, 78.2988, 36.7854)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text281" gorn="0.3.0.26.0.11.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 80.7148, 36.7854)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text283" gorn="0.3.0.26.0.11.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 82.7305, 36.7854)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text285" gorn="0.3.0.26.0.11.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 83.8828, 36.7854)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text287" gorn="0.3.0.26.0.11.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 86.4805, 36.7854)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text289" gorn="0.3.0.26.0.11.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 88.4082, 36.7854)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text291" gorn="0.3.0.26.0.11.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">0</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g293" gorn="0.3.0.26.0.12">
+<g transform="matrix(1, 0, 0, 1, 78.2988, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text295" gorn="0.3.0.26.0.12.0.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 80.7148, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text297" gorn="0.3.0.26.0.12.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 82.7305, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text299" gorn="0.3.0.26.0.12.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 83.8828, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text301" gorn="0.3.0.26.0.12.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 86.4805, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text303" gorn="0.3.0.26.0.12.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 88.4082, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text305" gorn="0.3.0.26.0.12.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text307" gorn="0.3.0.26.1.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text309" gorn="0.3.0.26.2.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text311" gorn="0.3.0.26.3.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text313" gorn="0.3.0.26.4.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text315" gorn="0.3.0.26.5.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.0376, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text317" gorn="0.3.0.26.6.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.9468, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text319" gorn="0.3.0.26.7.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">S</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 28.7637, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text321" gorn="0.3.0.26.8.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">D</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 31.1235, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text323" gorn="0.3.0.26.9.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">A</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 33.2515, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text325" gorn="0.3.0.26.10.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 35.1792, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text327" gorn="0.3.0.26.11.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 36.0884, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text329" gorn="0.3.0.26.12.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 37.2744, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text331" gorn="0.3.0.26.13.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 39.2021, 29.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text333" gorn="0.3.0.26.14.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">C</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text335" gorn="0.3.0.26.15.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text337" gorn="0.3.0.26.16.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text339" gorn="0.3.0.26.17.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text341" gorn="0.3.0.26.18.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text343" gorn="0.3.0.26.19.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">3</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.0376, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text345" gorn="0.3.0.26.20.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.9468, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text347" gorn="0.3.0.26.21.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">S</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 28.7637, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text349" gorn="0.3.0.26.22.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">C</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 30.8745, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text351" gorn="0.3.0.26.23.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">L</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 32.5933, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text353" gorn="0.3.0.26.24.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 34.521, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text355" gorn="0.3.0.26.25.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 35.4302, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text357" gorn="0.3.0.26.26.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 36.6167, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text359" gorn="0.3.0.26.27.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 38.5444, 36.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text361" gorn="0.3.0.26.28.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">C</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 43.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text363" gorn="0.3.0.26.29.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 43.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text365" gorn="0.3.0.26.30.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 43.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text367" gorn="0.3.0.26.31.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 43.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text369" gorn="0.3.0.26.32.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 43.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text371" gorn="0.3.0.26.33.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">4</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 51.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text373" gorn="0.3.0.26.34.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 51.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text375" gorn="0.3.0.26.35.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 51.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text377" gorn="0.3.0.26.36.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 51.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text379" gorn="0.3.0.26.37.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 51.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text381" gorn="0.3.0.26.38.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.0376, 51.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text383" gorn="0.3.0.26.39.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">7</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 58.385)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text385" gorn="0.3.0.26.40.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 58.385)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text387" gorn="0.3.0.26.41.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 58.385)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text389" gorn="0.3.0.26.42.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 58.385)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text391" gorn="0.3.0.26.43.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 58.385)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text393" gorn="0.3.0.26.44.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.0376, 58.385)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text395" gorn="0.3.0.26.45.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">7</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 65.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text397" gorn="0.3.0.26.46.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 65.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text399" gorn="0.3.0.26.47.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 65.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text401" gorn="0.3.0.26.48.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 65.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text403" gorn="0.3.0.26.49.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 65.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text405" gorn="0.3.0.26.50.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.0376, 65.5852)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text407" gorn="0.3.0.26.51.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 72.7864)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text409" gorn="0.3.0.26.52.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">GIPO10 SPI0_MOSI </text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text411" gorn="0.3.0.26.53.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text413" gorn="0.3.0.26.54.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text415" gorn="0.3.0.26.55.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text417" gorn="0.3.0.26.56.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text419" gorn="0.3.0.26.57.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">9</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.0376, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text421" gorn="0.3.0.26.58.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.9468, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text423" gorn="0.3.0.26.59.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">S</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 28.7637, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text425" gorn="0.3.0.26.60.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 30.7803, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text427" gorn="0.3.0.26.61.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 31.9663, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text429" gorn="0.3.0.26.62.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">0</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 33.894, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text431" gorn="0.3.0.26.63.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">_</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 35.333, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text433" gorn="0.3.0.26.64.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">M</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 38.3784, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text435" gorn="0.3.0.26.65.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 39.5645, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text437" gorn="0.3.0.26.66.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">S</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 41.3813, 79.9856)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text439" gorn="0.3.0.26.67.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text441" gorn="0.3.0.26.68.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text443" gorn="0.3.0.26.69.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text445" gorn="0.3.0.26.70.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text447" gorn="0.3.0.26.71.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text449" gorn="0.3.0.26.72.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.0376, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text451" gorn="0.3.0.26.73.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 27.9653, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text453" gorn="0.3.0.26.74.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 28.8745, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text455" gorn="0.3.0.26.75.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">S</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 30.6914, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text457" gorn="0.3.0.26.76.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 32.708, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text459" gorn="0.3.0.26.77.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 33.894, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text461" gorn="0.3.0.26.78.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">0</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 35.8218, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text463" gorn="0.3.0.26.79.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">_</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 37.2607, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text465" gorn="0.3.0.26.80.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">S</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 39.0776, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text467" gorn="0.3.0.26.81.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">C</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 41.188, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text469" gorn="0.3.0.26.82.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">L</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 42.9072, 87.1848)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text471" gorn="0.3.0.26.83.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">K</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 94.386)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text473" gorn="0.3.0.26.84.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">ID_SD I2C ID EEPROM</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 101.585)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text475" gorn="0.3.0.26.85.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 101.585)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text477" gorn="0.3.0.26.86.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 101.585)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text479" gorn="0.3.0.26.87.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 101.585)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text481" gorn="0.3.0.26.88.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 101.585)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text483" gorn="0.3.0.26.89.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">5</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 108.785)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text485" gorn="0.3.0.26.90.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 108.785)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text487" gorn="0.3.0.26.91.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 108.785)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text489" gorn="0.3.0.26.92.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 108.785)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text491" gorn="0.3.0.26.93.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 108.785)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text493" gorn="0.3.0.26.94.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">5</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 108.785)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text495" gorn="0.3.0.26.95.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 108.785)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text497" gorn="0.3.0.26.96.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 108.785)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text499" gorn="0.3.0.26.97.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 108.785)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text501" gorn="0.3.0.26.98.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 108.785)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text503" gorn="0.3.0.26.99.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">6</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 115.986)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text505" gorn="0.3.0.26.100.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 115.986)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text507" gorn="0.3.0.26.101.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 115.986)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text509" gorn="0.3.0.26.102.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 115.986)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text511" gorn="0.3.0.26.103.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 115.986)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text513" gorn="0.3.0.26.104.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.0376, 115.986)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text515" gorn="0.3.0.26.105.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">3</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 123.186)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text517" gorn="0.3.0.26.106.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 123.186)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text519" gorn="0.3.0.26.107.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 123.186)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text521" gorn="0.3.0.26.108.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 123.186)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text523" gorn="0.3.0.26.109.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 123.186)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text525" gorn="0.3.0.26.110.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">1</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.0376, 123.186)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text527" gorn="0.3.0.26.111.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">9</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 15.9292, 130.386)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text529" gorn="0.3.0.26.112.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">G</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 18.3442, 130.386)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text531" gorn="0.3.0.26.113.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">P</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 20.3608, 130.386)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text533" gorn="0.3.0.26.114.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">I</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 21.5122, 130.386)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text535" gorn="0.3.0.26.115.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">O</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 24.1099, 130.386)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text537" gorn="0.3.0.26.116.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">2</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1, 0, 0, 1, 26.0376, 130.386)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text539" gorn="0.3.0.26.117.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">6</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 52.0796, 149.536)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text541" gorn="0.3.0.26.118.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">GND</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 43.6802, 22.0793)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text543" gorn="0.3.0.26.119.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">3V3</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(-1.83697e-16, -1, 1, -1.83697e-16, 65.2813, 20.1516)">
+<g>
+<g>
+<g>
+<g>
+<g>
+<text font-size="3.5" id="text545" gorn="0.3.0.26.120.0.0.0.0.0" font-family="DroidSans" fill="#8C8C8C">5V</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="g547" gorn="0.3.0.26.121">
+<text font-size="0" id="label_3_" style="font-family:DroidSans" x="39.1908" y="43.5829" gorn="0.3.0.26.121.0">Raspberry Pi 3</text>
+<text font-size="0" id="label_1_" style="font-family:DroidSans" x="39.7501" y="49.9407" gorn="0.3.0.26.121.1">Model B v1.2</text>
+</g>
+</g>
+<g id="g551" gorn="0.3.0.27">
+<line stroke="#787878" id="connector1pin" stroke-linecap="round" y1="28.895" y2="28.895" x1="0.329" x2="14.729" gorn="0.3.0.27.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector1terminal" stroke-linecap="round" x="-0.294" y="28.8" height="0.208" width="0.546" gorn="0.3.0.27.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g555" gorn="0.3.0.28">
+<line stroke="#787878" id="connector2pin" stroke-linecap="round" y1="36.095" y2="36.095" x1="0.329" x2="14.729" gorn="0.3.0.28.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector2terminal" stroke-linecap="round" x="-0.294" y="35.999" height="0.208" width="0.546" gorn="0.3.0.28.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g559" gorn="0.3.0.29">
+<line stroke="#787878" id="connector3pin" stroke-linecap="round" y1="43.296" y2="43.296" x1="0.329" x2="14.729" gorn="0.3.0.29.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector3terminal" stroke-linecap="round" x="-0.294" y="43.199" height="0.208" width="0.546" gorn="0.3.0.29.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g563" gorn="0.3.0.30">
+<line stroke="#787878" id="connector5pin" stroke-linecap="round" y1="50.496" y2="50.496" x1="0.329" x2="14.729" gorn="0.3.0.30.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector5terminal" stroke-linecap="round" x="-0.294" y="50.4" height="0.208" width="0.546" gorn="0.3.0.30.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g567" gorn="0.3.0.31">
+<line stroke="#787878" id="connector6pin" stroke-linecap="round" y1="57.696" y2="57.696" x1="0.329" x2="14.729" gorn="0.3.0.31.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector6terminal" stroke-linecap="round" x="-0.294" y="57.6" height="0.208" width="0.546" gorn="0.3.0.31.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g571" gorn="0.3.0.32">
+<line stroke="#787878" id="connector7pin" stroke-linecap="round" y1="64.896" y2="64.896" x1="0.329" x2="14.729" gorn="0.3.0.32.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector7terminal" stroke-linecap="round" x="-0.294" y="64.8" height="0.208" width="0.546" gorn="0.3.0.32.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g575" gorn="0.3.0.33">
+<line stroke="#787878" id="connector9pin" stroke-linecap="round" y1="72.095" y2="72.095" x1="0.329" x2="14.729" gorn="0.3.0.33.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector9terminal" stroke-linecap="round" x="-0.294" y="72" height="0.208" width="0.546" gorn="0.3.0.33.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g579" gorn="0.3.0.34">
+<line stroke="#787878" id="connector10pin" stroke-linecap="round" y1="79.296" y2="79.296" x1="0.329" x2="14.729" gorn="0.3.0.34.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector10terminal" stroke-linecap="round" x="-0.294" y="79.199" height="0.208" width="0.546" gorn="0.3.0.34.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g583" gorn="0.3.0.35">
+<line stroke="#787878" id="connector11pin" stroke-linecap="round" y1="86.495" y2="86.495" x1="0.329" x2="14.729" gorn="0.3.0.35.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector11terminal" stroke-linecap="round" x="-0.294" y="86.4" height="0.208" width="0.546" gorn="0.3.0.35.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g587" gorn="0.3.0.36">
+<line stroke="#787878" id="connector13pin" stroke-linecap="round" y1="93.696" y2="93.696" x1="0.329" x2="14.729" gorn="0.3.0.36.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector13terminal" stroke-linecap="round" x="-0.294" y="93.6" height="0.208" width="0.546" gorn="0.3.0.36.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g591" gorn="0.3.0.37">
+<line stroke="#787878" id="connector14pin" stroke-linecap="round" y1="100.896" y2="100.896" x1="0.329" x2="14.729" gorn="0.3.0.37.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector14terminal" stroke-linecap="round" x="-0.294" y="100.8" height="0.208" width="0.546" gorn="0.3.0.37.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g595" gorn="0.3.0.38">
+<line stroke="#787878" id="connector15pin" stroke-linecap="round" y1="108.096" y2="108.096" x1="0.329" x2="14.729" gorn="0.3.0.38.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector15terminal" stroke-linecap="round" x="-0.294" y="107.999" height="0.208" width="0.546" gorn="0.3.0.38.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g599" gorn="0.3.0.39">
+<line stroke="#787878" id="connector16pin" stroke-linecap="round" y1="115.294" y2="115.294" x1="0.329" x2="14.729" gorn="0.3.0.39.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector16terminal" stroke-linecap="round" x="-0.294" y="115.198" height="0.209" width="0.546" gorn="0.3.0.39.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g603" gorn="0.3.0.40">
+<line stroke="#787878" id="connector17pin" stroke-linecap="round" y1="122.495" y2="122.495" x1="0.329" x2="14.729" gorn="0.3.0.40.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector17terminal" stroke-linecap="round" x="-0.294" y="122.4" height="0.207" width="0.546" gorn="0.3.0.40.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g607" gorn="0.3.0.41">
+<line stroke="#787878" id="connector18pin" stroke-linecap="round" y1="129.695" y2="129.695" x1="0.329" x2="14.729" gorn="0.3.0.41.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector18terminal" stroke-linecap="round" x="-0.294" y="129.599" height="0.209" width="0.546" gorn="0.3.0.41.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g611" gorn="0.3.0.42">
+<line stroke="#787878" id="connector20pin" stroke-linecap="round" y1="28.888" y2="28.888" x1="93.018" x2="107.418" gorn="0.3.0.42.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector20terminal" stroke-linecap="round" x="107.59" y="28.792" height="0.208" width="0.547" gorn="0.3.0.42.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g615" gorn="0.3.0.43">
+<line stroke="#787878" id="connector21pin" stroke-linecap="round" y1="36.088" y2="36.088" x1="93.018" x2="107.418" gorn="0.3.0.43.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector21terminal" stroke-linecap="round" x="107.59" y="35.992" height="0.208" width="0.547" gorn="0.3.0.43.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g619" gorn="0.3.0.44">
+<line stroke="#787878" id="connector22pin" stroke-linecap="round" y1="43.288" y2="43.288" x1="93.018" x2="107.418" gorn="0.3.0.44.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector22terminal" stroke-linecap="round" x="107.59" y="43.193" height="0.207" width="0.547" gorn="0.3.0.44.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g623" gorn="0.3.0.45">
+<line stroke="#787878" id="connector24pin" stroke-linecap="round" y1="50.488" y2="50.488" x1="93.018" x2="107.418" gorn="0.3.0.45.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector24terminal" stroke-linecap="round" x="107.59" y="50.392" height="0.207" width="0.547" gorn="0.3.0.45.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g627" gorn="0.3.0.46">
+<line stroke="#787878" id="connector26pin" stroke-linecap="round" y1="57.689" y2="57.689" x1="93.018" x2="107.418" gorn="0.3.0.46.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector26terminal" stroke-linecap="round" x="107.59" y="57.593" height="0.207" width="0.547" gorn="0.3.0.46.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g631" gorn="0.3.0.47">
+<line stroke="#787878" id="connector27pin" stroke-linecap="round" y1="64.887" y2="64.887" x1="93.018" x2="107.418" gorn="0.3.0.47.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector27terminal" stroke-linecap="round" x="107.59" y="64.792" height="0.207" width="0.547" gorn="0.3.0.47.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g635" gorn="0.3.0.48">
+<line stroke="#787878" id="connector28pin" stroke-linecap="round" y1="72.088" y2="72.088" x1="93.018" x2="107.418" gorn="0.3.0.48.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector28terminal" stroke-linecap="round" x="107.59" y="71.99" height="0.209" width="0.547" gorn="0.3.0.48.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g639" gorn="0.3.0.49">
+<line stroke="#787878" id="connector29pin" stroke-linecap="round" y1="79.287" y2="79.287" x1="93.018" x2="107.418" gorn="0.3.0.49.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector29terminal" stroke-linecap="round" x="107.59" y="79.192" height="0.207" width="0.547" gorn="0.3.0.49.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g643" gorn="0.3.0.50">
+<line stroke="#787878" id="connector31pin" stroke-linecap="round" y1="86.49" y2="86.49" x1="93.018" x2="107.418" gorn="0.3.0.50.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector31terminal" stroke-linecap="round" x="107.59" y="86.393" height="0.207" width="0.547" gorn="0.3.0.50.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g647" gorn="0.3.0.51">
+<line stroke="#787878" id="connector32pin" stroke-linecap="round" y1="93.688" y2="93.688" x1="93.018" x2="107.418" gorn="0.3.0.51.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector32terminal" stroke-linecap="round" x="107.59" y="93.592" height="0.207" width="0.547" gorn="0.3.0.51.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g651" gorn="0.3.0.52">
+<line stroke="#787878" id="connector34pin" stroke-linecap="round" y1="100.888" y2="100.888" x1="93.018" x2="107.418" gorn="0.3.0.52.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector34terminal" stroke-linecap="round" x="107.59" y="100.792" height="0.207" width="0.547" gorn="0.3.0.52.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g655" gorn="0.3.0.53">
+<line stroke="#787878" id="connector35pin" stroke-linecap="round" y1="108.087" y2="108.087" x1="93.018" x2="107.418" gorn="0.3.0.53.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector35terminal" stroke-linecap="round" x="107.59" y="107.991" height="0.209" width="0.547" gorn="0.3.0.53.1" stroke-width="0.75" fill="none"/>
+</g>
+<g id="g659" gorn="0.3.0.54">
+<line stroke="#787878" id="connector36pin" stroke-linecap="round" y1="115.288" y2="115.288" x1="93.018" x2="107.418" gorn="0.3.0.54.0" stroke-width="1.0665" fill="none"/>
+<g stroke="#787878" id="connector36terminal" stroke-linecap="round" x="107.59" y="115.193" height="0.207" width="0.547" gorn="0.3.0.54.1" stroke-width="0.75" fill="none"/>
+</g>
+</g>
+</g></g></g><g partID='854371130'><g transform='translate(119.198,11.2)' ><g id="schematic" gorn="0.2">
+<rect stroke="#000000" stroke-linecap="round" x="14.4" y="14.4" height="50.4" width="49.95" stroke-linejoin="round" stroke-width="0.9" fill="none"/>
+<text id="label" stroke="none" font-size="3.5" x="39.6" y="28.8" text-anchor="middle" gorn="0.2.1" font-family="'Droid Sans'" fill="#000000">Adafruit</text>
+<text id="label" stroke="none" font-size="3.5" x="39.6" y="32.3" text-anchor="middle" gorn="0.2.2" font-family="'Droid Sans'" fill="#000000">ADS1115</text>
+<text id="label" stroke="none" font-size="3.5" x="39.6" y="35.8" text-anchor="middle" gorn="0.2.3" font-family="'Droid Sans'" fill="#000000">16Bit</text>
+<text id="label" stroke="none" font-size="3.5" x="39.6" y="39.3" text-anchor="middle" gorn="0.2.4" font-family="'Droid Sans'" fill="#000000">I2C</text>
+<text id="label" stroke="none" font-size="3.5" x="39.6" y="42.8" text-anchor="middle" gorn="0.2.5" font-family="'Droid Sans'" fill="#000000">ADC</text>
+<line stroke="#787878" stroke-linecap="round" y1="28.8" y2="28.8" stroke-linejoin="round" x1="0.349999" x2="14.4" stroke-width="0.699998" fill="none"/>
+<rect id="connector15pin" x="0" y="28.45" height="0.699998" width="14.4" gorn="0.2.7" stroke-width="0" connectorName="ADDR" fill="none"/>
+<g id="connector15terminal" x="0" y="28.45" height="0.699998" width="0" gorn="0.2.8" stroke-width="0" fill="none"/>
+<text id="label15" stroke="none" font-size="3.5" x="15.8" y="29.5" text-anchor="start" gorn="0.2.9" font-family="'Droid Sans'" fill="#8c8c8c">ADDR</text>
+<line stroke="#787878" stroke-linecap="round" y1="36" y2="36" stroke-linejoin="round" x1="0.349999" x2="14.4" stroke-width="0.699998" fill="none"/>
+<rect id="connector13pin" x="0" y="35.65" height="0.699998" width="14.4" gorn="0.2.11" stroke-width="0" connectorName="AIN0" fill="none"/>
+<g id="connector13terminal" x="0" y="35.65" height="0.699998" width="0" gorn="0.2.12" stroke-width="0" fill="none"/>
+<text id="label13" stroke="none" font-size="3.5" x="15.8" y="36.7" text-anchor="start" gorn="0.2.13" font-family="'Droid Sans'" fill="#8c8c8c">AIN0</text>
+<line stroke="#787878" stroke-linecap="round" y1="43.2" y2="43.2" stroke-linejoin="round" x1="0.349999" x2="14.4" stroke-width="0.699998" fill="none"/>
+<rect id="connector12pin" x="0" y="42.85" height="0.699998" width="14.4" gorn="0.2.15" stroke-width="0" connectorName="AIN1" fill="none"/>
+<g id="connector12terminal" x="0" y="42.85" height="0.699998" width="0" gorn="0.2.16" stroke-width="0" fill="none"/>
+<text id="label12" stroke="none" font-size="3.5" x="15.8" y="43.9" text-anchor="start" gorn="0.2.17" font-family="'Droid Sans'" fill="#8c8c8c">AIN1</text>
+<line stroke="#787878" stroke-linecap="round" y1="50.4" y2="50.4" stroke-linejoin="round" x1="0.349999" x2="14.4" stroke-width="0.699998" fill="none"/>
+<rect id="connector11pin" x="0" y="50.05" height="0.699998" width="14.4" gorn="0.2.19" stroke-width="0" connectorName="AIN2" fill="none"/>
+<g id="connector11terminal" x="0" y="50.05" height="0.699998" width="0" gorn="0.2.20" stroke-width="0" fill="none"/>
+<text id="label11" stroke="none" font-size="3.5" x="15.8" y="51.1" text-anchor="start" gorn="0.2.21" font-family="'Droid Sans'" fill="#8c8c8c">AIN2</text>
+<line stroke="#787878" stroke-linecap="round" y1="28.8" y2="28.8" stroke-linejoin="round" x1="64.45" x2="78.8501" stroke-width="0.699998" fill="none"/>
+<rect id="connector16pin" connectorname="SDA" x="64.8" y="28.45" height="0.699998" width="14.4" gorn="0.2.23" stroke-width="0" fill="none"/>
+<g id="connector16terminal" x="79.2" y="28.45" height="0.699998" width="0" gorn="0.2.24" stroke-width="0" fill="none"/>
+<text id="label16" stroke="none" font-size="3.5" x="63.4" y="29.5" text-anchor="end" gorn="0.2.25" font-family="'Droid Sans'" fill="#8c8c8c">SDA</text>
+<line stroke="#787878" stroke-linecap="round" y1="36" y2="36" stroke-linejoin="round" x1="64.45" x2="78.8501" stroke-width="0.699998" fill="none"/>
+<rect id="connector17pin" connectorname="SCL" x="64.8" y="35.65" height="0.699998" width="14.4" gorn="0.2.27" stroke-width="0" fill="none"/>
+<g id="connector17terminal" x="79.2" y="35.65" height="0.699998" width="0" gorn="0.2.28" stroke-width="0" fill="none"/>
+<text id="label17" stroke="none" font-size="3.5" x="63.4" y="36.7" text-anchor="end" gorn="0.2.29" font-family="'Droid Sans'" fill="#8c8c8c">SCL</text>
+<line stroke="#787878" stroke-linecap="round" y1="43.2" y2="43.2" stroke-linejoin="round" x1="64.45" x2="78.8501" stroke-width="0.699998" fill="none"/>
+<rect id="connector14pin" connectorname="ALERT" x="64.8" y="42.85" height="0.699998" width="14.4" gorn="0.2.31" stroke-width="0" fill="none"/>
+<g id="connector14terminal" x="79.2" y="42.85" height="0.699998" width="0" gorn="0.2.32" stroke-width="0" fill="none"/>
+<text id="label14" stroke="none" font-size="3.5" x="63.4" y="43.9" text-anchor="end" gorn="0.2.33" font-family="'Droid Sans'" fill="#8c8c8c">ALERT</text>
+<line stroke="#787878" stroke-linecap="round" y1="50.4" y2="50.4" stroke-linejoin="round" x1="64.45" x2="78.8501" stroke-width="0.699998" fill="none"/>
+<rect id="connector10pin" connectorname="AIN3" x="64.8" y="50.05" height="0.699998" width="14.4" gorn="0.2.35" stroke-width="0" fill="none"/>
+<g id="connector10terminal" x="79.2" y="50.05" height="0.699998" width="0" gorn="0.2.36" stroke-width="0" fill="none"/>
+<text id="label10" stroke="none" font-size="3.5" x="63.4" y="51.1" text-anchor="end" gorn="0.2.37" font-family="'Droid Sans'" fill="#8c8c8c">AIN3</text>
+<line stroke="#787878" stroke-linecap="round" y1="0.349999" y2="14.4" stroke-linejoin="round" x1="36" x2="36" stroke-width="0.699998" fill="none"/>
+<rect id="connector19pin" connectorname="VDD" x="35.65" y="0" height="14.4" width="0.699998" gorn="0.2.39" stroke-width="0" fill="none"/>
+<g id="connector19terminal" x="35.65" y="0" height="0" width="0.699998" gorn="0.2.40" stroke-width="0" fill="none"/>
+<g transform="matrix(1, 0, 0, 1, 37.4, 16)">
+<g>
+<g>
+<g>
+<g transform="rotate(270)">
+<g>
+<g>
+<g>
+<text id="label19" stroke="none" font-size="3.5" x="0" y="0" text-anchor="end" gorn="0.2.41.0.0.0.0.0.0" font-family="'Droid Sans'" fill="#8c8c8c">VDD</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<line stroke="#787878" stroke-linecap="round" y1="64.8" y2="78.8501" stroke-linejoin="round" x1="36" x2="36" stroke-width="0.699998" fill="none"/>
+<rect id="connector18pin" connectorname="GND" x="35.65" y="64.8" height="14.4" width="0.699998" gorn="0.2.43" stroke-width="0" fill="none"/>
+<g id="connector18terminal" x="35.65" y="79.2" height="0" width="0.699998" gorn="0.2.44" stroke-width="0" fill="none"/>
+<g transform="matrix(1, 0, 0, 1, 37.4, 63.2)">
+<g>
+<g>
+<g>
+<g transform="rotate(270)">
+<g>
+<g>
+<g>
+<text id="label18" stroke="none" font-size="3.5" x="0" y="0" text-anchor="start" gorn="0.2.45.0.0.0.0.0.0" font-family="'Droid Sans'" fill="#8c8c8c">GND</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g></g><g partID='854371810'><g transform='translate(47.2,155.712)' ><g transform='matrix(-1,0,0,-1,0,0)'  ><g id="schematic">
+<polyline stroke="#000000" stroke-linecap="round" points="4.125,17.557,21.6,27.474,21.6,37.743" stroke-width="0.7" fill="none"/>
+<polygon points="4.23,19.505,-0.022,15.188,5.819,16.8"/>
+<polyline stroke="#000000" stroke-linecap="round" points="14.401,36,14.401,34.559,11.521,32.4,18.001,28.799,11.521,25.2,18.001,21.6,11.521,18,18.001,14.4,11.521,10.8,14.401,8.64,14.401,7.2" stroke-width="0.7" fill="none"/>
+<g d="M21.968,43.2l0,-1.054l-0.672,0.017L21.296,43.2L21.968,43.2z" id="connector1terminal" fill="none"/>
+<line id="connector1pin" stroke="#787878" stroke-linecap="round" y1="42.85" y2="36" x1="21.621" x2="21.621" stroke-width="0.7" fill="none"/>
+<line id="connector0pin" stroke="#787878" stroke-linecap="round" y1="42.85" y2="36" x1="14.4" x2="14.4" stroke-width="0.7" fill="none"/>
+<g d="M14.047,42.176l0.703,0L14.719,43.2l-0.656,0L14.047,42.176z" id="connector0terminal" fill="none"/>
+<g transform="matrix(1, 0, 0, 1, 11.521, 40.0005)">
+<text font-size="2" font-family="'DroidSans'" fill="#787878">1</text>
+</g>
+<g transform="matrix(1, 0, 0, 1, 19.1245, 40.0005)">
+<text font-size="2" font-family="'DroidSans'" fill="#787878">3</text>
+</g>
+<line id="connector2pin" stroke="#787878" stroke-linecap="round" y1="0.35" y2="7.55" x1="14.4" x2="14.4" stroke-width="0.7" fill="none"/>
+<g d="M14.15,-0.25l0,0.5l0.497,-0.01l0.003,-0.49L14.15,-0.25z" id="connector2terminal" fill="none"/>
+<g transform="matrix(1, 0, 0, 1, 11.521, 4.9751)">
+<text font-size="2" font-family="'DroidSans'" fill="#787878">2</text>
+</g>
+</g>
+</g></g></g><g partID='854376570'><line stroke-linecap='round' stroke='#404040' x1='119.198' y1='47.2' x2='119.516' y2='52.1361' stroke-width='0.699998' /></g><g partID='854376590'><line stroke-linecap='round' stroke='#404040' x1='119.516' y1='52.1361' x2='105.116' y2='52.1361' stroke-width='0.699998' /></g><g partID='854376610'><line stroke-linecap='round' stroke='#404040' x1='105.116' y1='52.1361' x2='105.116' y2='80.9361' stroke-width='0.699998' /></g><g partID='854376630'><line stroke-linecap='round' stroke='#404040' x1='105.116' y1='80.9361' x2='25.9162' y2='80.9361' stroke-width='0.699998' /></g><g partID='854376650'><line stroke-linecap='round' stroke='#404040' x1='25.9162' y1='80.9361' x2='25.9162' y2='116.936' stroke-width='0.699998' /></g><g partID='854376670'><line stroke-linecap='round' stroke='#404040' x1='25.9162' y1='116.936' x2='25.568' y2='113.039' stroke-width='0.699998' /></g><g partID='854376690'><line stroke-linecap='round' stroke='#404040' x1='198.398' y1='47.2' x2='198.716' y2='52.1361' stroke-width='0.699998' /></g><g partID='854376710'><line stroke-linecap='round' stroke='#404040' x1='198.716' y1='52.1361' x2='213.116' y2='52.1361' stroke-width='0.699998' /></g><g partID='854376730'><line stroke-linecap='round' stroke='#404040' x1='213.116' y1='52.1361' x2='213.116' y2='66.5361' stroke-width='0.699998' /></g><g partID='854376750'><line stroke-linecap='round' stroke='#404040' x1='213.116' y1='66.5361' x2='227.516' y2='66.5361' stroke-width='0.699998' /></g><g partID='854376770'><line stroke-linecap='round' stroke='#404040' x1='227.516' y1='66.5361' x2='227.516' y2='116.936' stroke-width='0.699998' /></g><g partID='854376790'><line stroke-linecap='round' stroke='#404040' x1='227.516' y1='116.936' x2='227.264' y2='111.355' stroke-width='0.699998' /></g><g partID='854376810'><line stroke-linecap='round' stroke='#404040' x1='32.8' y1='155.712' x2='32.8' y2='162.157' stroke-width='0.699998' /></g><g partID='854376830'><line stroke-linecap='round' stroke='#404040' x1='32.8' y1='162.157' x2='98.294' y2='162.157' stroke-width='0.699998' /></g><circle  fill="black" cx="98.294" cy="162.157" r="1.44" stroke-width="0" stroke="none" /><g partID='854376890'><line stroke-linecap='round' stroke='#404040' x1='155.198' y1='90.4' x2='98.294' y2='90.4' stroke-width='0.699998' /></g><g partID='854376910'><line stroke-linecap='round' stroke='#404040' x1='98.294' y1='90.4' x2='98.294' y2='162.157' stroke-width='0.699998' /></g><circle  fill="black" cx="98.294" cy="162.157" r="1.44" stroke-width="0" stroke="none" /><g partID='854377010'><line stroke-linecap='round' stroke='#404040' x1='198.398' y1='40' x2='198.716' y2='44.9361' stroke-width='0.699998' /></g><g partID='854377030'><line stroke-linecap='round' stroke='#404040' x1='198.716' y1='44.9361' x2='227.516' y2='44.9361' stroke-width='0.699998' /></g><g partID='854377050'><line stroke-linecap='round' stroke='#404040' x1='227.516' y1='44.9361' x2='227.516' y2='52.1361' stroke-width='0.699998' /></g><g partID='854377070'><line stroke-linecap='round' stroke='#404040' x1='227.516' y1='52.1361' x2='241.916' y2='52.1361' stroke-width='0.699998' /></g><g partID='854377090'><line stroke-linecap='round' stroke='#404040' x1='241.916' y1='52.1361' x2='241.916' y2='102.536' stroke-width='0.699998' /></g><g partID='854377130'><line stroke-linecap='round' stroke='#404040' x1='241.916' y1='102.536' x2='234.716' y2='102.536' stroke-width='0.699998' /></g><g partID='854377150'><line stroke-linecap='round' stroke='#404040' x1='234.716' y1='102.536' x2='234.716' y2='116.936' stroke-width='0.699998' /></g><g partID='854377170'><line stroke-linecap='round' stroke='#404040' x1='234.716' y1='116.936' x2='234.464' y2='111.355' stroke-width='0.699998' /></g><g partID='854377190'><line stroke-linecap='round' stroke='#404040' x1='32.8015' y1='113.024' x2='33.1162' y2='116.936' stroke-width='0.699998' /></g><g partID='854377210'><line stroke-linecap='round' stroke='#404040' x1='33.1162' y1='116.936' x2='33.1162' y2='59.3361' stroke-width='0.699998' /></g><g partID='854377230'><line stroke-linecap='round' stroke='#404040' x1='33.1162' y1='59.3361' x2='33.1162' y2='11.2' stroke-width='0.699998' /></g><g partID='854377250'><line stroke-linecap='round' stroke='#404040' x1='33.1162' y1='11.2' x2='155.198' y2='11.2' stroke-width='0.699998' /></g><circle  fill="black" cx="155.198" cy="11.2" r="1.44" stroke-width="0" stroke="none" /><g partID='854377450'><line stroke-linecap='round' stroke='#404040' x1='263.198' y1='155.2' x2='263.198' y2='11.2' stroke-width='0.699998' /></g><g partID='854377470'><line stroke-linecap='round' stroke='#404040' x1='263.198' y1='11.2' x2='155.198' y2='11.2' stroke-width='0.699998' /></g><circle  fill="black" cx="155.198" cy="11.2" r="1.44" stroke-width="0" stroke="none" /><g partID='854130780' id='partLabel'><g transform='translate(156.701,226.576)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'DroidSans'" id='schematicLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>Raspberry Pi 1</text><text x='0' y='8.75'>RPI-3-V1.2</text></g></g></g><g partID='854371130' id='partLabel'><g transform='translate(198.398,0)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'DroidSans'" id='schematicLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>ADS1115</text><text x='0' y='8.75'>Adafruit #1085</text></g></g></g><g partID='854371810' id='partLabel'><g transform='translate(0,155.712)' ><g font-size='5' font-style='normal' font-weight='normal' fill='#000000' font-family="'DroidSans'" id='schematicLabel' fill-opacity='1' stroke='none' ><text x='0' y='3.75'>R1</text><text x='0' y='8.75'>10k&#x3a9;</text></g></g></g></svg>
